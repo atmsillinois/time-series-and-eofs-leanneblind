@@ -1,6 +1,6 @@
 # ATMS 523 Module-3
 
-This project uses [ERA-5 monthly mean data from the NCAR Research Data Archive](web address) to calculate monthly mean SST and precipitation anomailes for the years 1979-2021 over the Pacific Ocean. These monthly anomalies are deseasonalized, detrended, and standardized in order to perform EOF analyses. 
+This project uses [ERA-5 monthly mean data from the NCAR Research Data Archive](https://rda.ucar.edu/datasets/ds633.1/#!description) to calculate monthly mean SST and precipitation anomailes for the years 1979-2021 over the Pacific Ocean. These monthly anomalies are deseasonalized, detrended, and standardized in order to perform EOF analyses. 
 
 ## Setting Up
 Other than some basic python packages like numpy and matplotlib, this project requires cartopy, pandas, dask, xarray, and eofs to run. To install these pacakges using conda, execute the following commands in your environment:
