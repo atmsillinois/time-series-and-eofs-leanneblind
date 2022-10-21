@@ -19,7 +19,7 @@ European Centre for Medium-Range Weather Forecasts, 2019: ERA5 Reanalysis (0.25 
 
 For part 1, the [Computations and Masks with Xarray documentation from Project Pythia](https://foundations.projectpythia.org/core/xarray/computation-masking.html) was used for help on calculating the SST and precipitation anomalies.
 
-For part 2, the [Monthly data analysis — PyCLIM_101 0.2 documentation](https://climate.usu.edu/people/yoshi/pyclm101/monthly.html) was used for the detrend function.
+For part 2, the [Monthly data analysis — PyCLIM_101 0.2 documentation](https://climate.usu.edu/people/yoshi/pyclm101/monthly.html) was used for the detrend function. The [Xarray documentation](https://docs.xarray.dev/en/stable/examples/weather-data.html) was used to standardize the monthly anomalies.
 
 ## Maintenance of Project
 This project was created for the University of Illinois ATMS 523 Weather and Climate Data Analytics course. The project is completed at this time.
